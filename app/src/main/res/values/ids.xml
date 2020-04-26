@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toastGofood" type="id">toastg</item>
+    <item name="edt_nama" type="id">edt nama</item>
+    <item name="edt_pesan" type="id">edt pesan</item>
+    <item name="cancelOrder" type="id">cncl</item>
+</resources>
